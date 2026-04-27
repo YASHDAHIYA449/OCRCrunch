@@ -1,0 +1,15 @@
+{
+    "store_name": "WAL-MART",
+    "date": "10/31/21",
+    "items": [
+        {
+            "name": "watik",
+            "price": "0.98"
+        },
+        {
+            "name": "ICH   7563' 4623.39",
+            "price": "38.09"
+        }
+    ],
+    "total_amount": "39.07"
+}

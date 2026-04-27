@@ -1,0 +1,35 @@
+{
+    "store_name": "WAL-MART",
+    "date": "10/16/21",
+    "items": [
+        {
+            "name": "FIBER CHOICE",
+            "price": "14.97"
+        },
+        {
+            "name": "CELERY' HEART",
+            "price": "12.94"
+        },
+        {
+            "name": "RED GRAPE",
+            "price": "2.48"
+        },
+        {
+            "name": "SHOPPING CARD_TEND",
+            "price": "35.05"
+        },
+        {
+            "name": "IC# 6949 6652.66",
+            "price": "69.80"
+        },
+        {
+            "name": "LAKE WALES FL 33898",
+            "price": "3.61"
+        },
+        {
+            "name": "Low Pr ces You Can Trust _ Every Day",
+            "price": "11.22"
+        }
+    ],
+    "total_amount": "150.07"
+}

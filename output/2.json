@@ -1,0 +1,27 @@
+{
+    "store_name": "WAL-MART",
+    "date": "10/18/20",
+    "items": [
+        {
+            "name": "OT  2002 TUM",
+            "price": "6.74"
+        },
+        {
+            "name": "M ATHLETICS",
+            "price": "24.97"
+        },
+        {
+            "name": "DEXAS 15X20",
+            "price": "12.97"
+        },
+        {
+            "name": "TERMINAL # SC011004",
+            "price": "11.30"
+        },
+        {
+            "name": "Join loday #l walmar[ conplus",
+            "price": "11.30"
+        }
+    ],
+    "total_amount": "49.90"
+}

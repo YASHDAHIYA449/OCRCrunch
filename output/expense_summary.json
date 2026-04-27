@@ -1,0 +1,11 @@
+{
+    "total_spend": 1251.31,
+    "number_of_transactions": 13,
+    "spend_per_store": {
+        "WAL-MART": 360.96,
+        "TRADER JOE'S": 843.55,
+        "SPAR": 15.0,
+        "WHOLE FOODS": 28.28,
+        "cexcg": 3.52
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "store_name": "TRADER JOE'S",
+    "date": "06-28-2014",
+    "items": [
+        {
+            "name": "3F4 Eo29EENut Butter",
+            "price": "2.49"
+        },
+        {
+            "name": "CREAMY SALTED",
+            "price": "1.69"
+        },
+        {
+            "name": "@",
+            "price": "0.69"
+        },
+        {
+            "name": "GROCERY NON TAXABLE",
+            "price": "838.68"
+        }
+    ],
+    "total_amount": "843.55"
+}

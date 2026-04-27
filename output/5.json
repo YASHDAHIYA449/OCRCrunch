@@ -1,0 +1,27 @@
+{
+    "store_name": "WHOLE FOODS",
+    "date": "02/10/2021",
+    "items": [
+        {
+            "name": "KTTL",
+            "price": "1.29"
+        },
+        {
+            "name": "2",
+            "price": "820.00"
+        },
+        {
+            "name": "SEA SALT POT CHP F",
+            "price": "6.99"
+        },
+        {
+            "name": "MEAL $10",
+            "price": "10.00"
+        },
+        {
+            "name": "CHEF PLATE",
+            "price": "828.28"
+        }
+    ],
+    "total_amount": "28.28"
+}
